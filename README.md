@@ -1,6 +1,10 @@
 # Calorie-Counter
-HTML:
-	• Step 1:
+Sometimes when you're coding a web application, you'll need to be able to accept input from a user. In this calorie counter project, you'll learn how to validate user input, perform calculations based on that input, and dynamically update your interface to display the results.
+
+In this practice project, you'll learn basic regular expressions, template literals, the addEventListener() method, and more.
+		HTML:
+	
+ 	• Step 1:
 With the HTML boilerplate add a form element and give it an id set to calorie-counter.
 
 	• Step 2:
@@ -50,7 +54,8 @@ Your form needs somewhere to display the results. Add an empty div element and g
 Finally, you need to link your JavaScript file to your HTML. Create a script element to do so.
 
 
-JavaScript:
+		JavaScript:
+
 	• Step 14:
 Begin by getting the form element (using the id) and storing it in a variable called calorieCounter.
 
